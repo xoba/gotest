@@ -1,0 +1,1 @@
+can we run a go module right from github?
